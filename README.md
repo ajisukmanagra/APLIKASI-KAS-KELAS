@@ -1,4 +1,4 @@
-### APLIKASI UANG KAS oleh TIM RPL | SMK NURUL ISLAM
+### PLIKASI-KAS-KELAS oleh TIM RPL | SMK NURUL ISLAM
 
 #### BUILD WITH LARAVEL 7
 
@@ -16,5 +16,5 @@
 Untuk login admin, silahkan buka folder **seeder**
 
 Note: Aplikasi belum selesai sepenuhnya, jadi masih ada bagian yang kosong/rusak.
-Bila menemukan kendala/bug, harap lapor ke **Azickri** kelas **XII RPL 2**
+Bila menemukan kendala/bug, harap lapor ke **AJI SUKMA NAGARA** kelas **XII RPL 2**
 # APLIKASI-KAS-KELAS
