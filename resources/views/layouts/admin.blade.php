@@ -171,7 +171,7 @@
                     <!-- Nothing here.. -->
                 </div>
                 <div class="version">
-                    Design by Azickri
+                    Design by Tim RPL
                 </div>
             </div>
             <!-- #Footer -->
