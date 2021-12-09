@@ -17,4 +17,3 @@ Untuk login admin, silahkan buka folder **seeder**
 
 Note: Aplikasi belum selesai sepenuhnya, jadi masih ada bagian yang kosong/rusak.
 Bila menemukan kendala/bug, harap lapor ke **AJI SUKMA NAGARA** kelas **XII RPL 2**
-# APLIKASI-KAS-KELAS
